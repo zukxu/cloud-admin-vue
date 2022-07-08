@@ -10,4 +10,5 @@ export default defineConfig({
         additionalData: `@import "src/assets/styles/index.scss";`
       }
     }
+  }
 })
